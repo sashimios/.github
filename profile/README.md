@@ -14,6 +14,7 @@ Sashimi OS is a GNU/Linux distribution.
 
 ## Projects
 
+### Package Management
 - [sashimios/tree-sashimi](https://github.com/sashimios/tree-sashimi): The "official" source tree repository.
 - [sashimios/spm-bash](https://github.com/sashimios/spm-bash): The SPM (Sashimi Package Manager) implementation written in shell script.
 
