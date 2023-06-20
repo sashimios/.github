@@ -3,7 +3,7 @@
 Sashimi OS is a GNU/Linux distribution.
 
 
-## Ideology
+## Design Purposes
 
 - Binary distributions rely too much on mirrors and/or CDN.
 - Dpkg is a nice backend to cooperate with.
