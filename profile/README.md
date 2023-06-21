@@ -20,6 +20,7 @@ No user-friendly installation is available.
 ### Package Management
 - [sashimios/tree-sashimi](https://github.com/sashimios/tree-sashimi): The "official" source tree repository.
 - [sashimios/spm-bash](https://github.com/sashimios/spm-bash): The SPM (Sashimi Package Manager) implementation written in shell script.
+- [sashimios/minibuild](https://github.com/sashimios/minibuild): Portable build scripts made for various classes of software packages.
 
 
 
