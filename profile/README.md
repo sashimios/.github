@@ -2,7 +2,7 @@
 
 Sashimi OS is a GNU/Linux distribution.
 
-At this moment, we focus on developing the package management system and make packages for important system components.
+At this moment, we focus on developing the package management system and making packages for important system components.
 No user-friendly installation is available.
 
 
